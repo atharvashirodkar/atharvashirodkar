@@ -102,7 +102,7 @@ Full-stack task management application with React frontend and Node.js backend.
   <a href="https://www.linkedin.com/in/atharvashirodkar">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:atharvashirodkar@gmail.com">
+  <a href="mailto:atharvashirodkar2@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/atharvashirodkar">
