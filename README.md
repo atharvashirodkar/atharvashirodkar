@@ -5,9 +5,9 @@
 <h3 align="center">💻 Computer Engineer | 🚀 Full-Stack Developer | 🔧 Crafting elegant solutions</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/atharvashirodkar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:atharvashirodkar2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/atharvashirodkar"><img src="https://img.shields.io/badge/Portfolio-FF7130?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/atharvashirodkar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:atharvashirodkar2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://atharvashirodkar.github.io/portfolio-v1/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF7130?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 
 ---
