@@ -80,8 +80,16 @@ Full-stack task management application with React frontend and Node.js backend.
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvashirodkar&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvashirodkar&theme=github-dark&hide_border=true" />
 </p>
+<div align="center">
+  
+---
+### 🐍 **Contribution Graph**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=atharvashirodkar&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
+
+</div>
 
 ---
 
