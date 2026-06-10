@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/atharvashirodkar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:atharvashirodkar2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://atharvashirodkar.github.io/portfolio-v1/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF7130?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://atharvashirodkar.github.io/portfolio-v2/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF7130?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 
 ---
@@ -110,7 +110,7 @@ Full-stack task management application with React frontend and Node.js backend.
   <a href="https://www.linkedin.com/in/atharvashirodkar">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:atharvashirodkar2@gmail.com">
+  <a href="mailto:atharvashirodkar2+work@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/atharvashirodkar">
